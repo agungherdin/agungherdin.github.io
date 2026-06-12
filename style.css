@@ -165,11 +165,6 @@ li {
     border-radius: 10px;
     font-weight: 500;
     transition: all 0.3s;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    min-height: 100%;
 }
 
 .skill-item:hover {
