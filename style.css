@@ -47,7 +47,7 @@ header {
     object-fit: cover;
     flex: none;
     display: block;
-    object-position: center;
+    object-position: center top;
     align-self: center;
 }
 
