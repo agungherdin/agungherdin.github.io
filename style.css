@@ -47,7 +47,7 @@ header {
     object-fit: cover;
     flex-shrink: 0;
     display: block;
-    object-position: center 30%;
+    object-position: center top 0%;
 }
 
 .header-info h1 {
