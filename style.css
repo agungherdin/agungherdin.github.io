@@ -156,6 +156,7 @@ li {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap: 15px;
+    justify-items: center;
 }
 
 .skill-item {
