@@ -166,7 +166,6 @@ li {
     border-radius: 10px;
     font-weight: 500;
     transition: all 0.3s;
-    display: flex;
     justify-content: center;
     align-items: center;
 }
