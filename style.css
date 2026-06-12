@@ -48,6 +48,7 @@ header {
     flex: 00 180px
     display: block;
     object-position: center 20%;
+    align-self: center;
 }
 
 .header-info h1 {
