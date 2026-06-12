@@ -45,7 +45,7 @@ header {
     border: 6px solid white;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
     object-fit: cover;
-    flex-shrink: 0;
+    flex: 00 180px
     display: block;
     object-position: center 60%;
 }
