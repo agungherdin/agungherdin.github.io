@@ -210,7 +210,7 @@ li {
 }
 .informasi img {
     width: 100%; 
-    height: 250px;
+    height: 150px;
     object-fit: cover;
     border-radius: 12 px;
 }
