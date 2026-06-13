@@ -68,7 +68,7 @@ header {
 
 .links a {
     display: inline-block;
-    background: #0f2c53;
+    background: #1e40af;
     color: white;
     padding: 12px 24px;
     border-radius: 50px;
@@ -79,7 +79,7 @@ header {
 }
 
 .links a:hover {
-    background: #1e40af;
+    background: #0f2c53;
     transform: scale(1.05);
 }
 
