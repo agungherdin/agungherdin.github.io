@@ -209,6 +209,13 @@ li {
     width: 100%; 
     border-radius: 12 px;
 }
+.footerbaru {
+    background: #0f2c53;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    font-size: 0.9rem;
+}
 footer {
     background: #0f2c53;
     color: white;
