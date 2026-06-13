@@ -202,10 +202,11 @@ li {
     display: flex;
     justify-content: space-around;
 }
+.informasi a {
+    width: 35%;
 .informasi img {
-    border-radius: 12px;
-    width: 40%; 
-    max-width: 800px;
+    width: 100%; 
+    border-radius: 12 px;
 }
 footer {
     background: #0f2c53;
