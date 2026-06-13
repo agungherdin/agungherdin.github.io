@@ -204,8 +204,8 @@ li {
 }
 .informasi img {
     border-radius: 12px;
-    width: 20%
-        max-width: 800px
+    width: 40%; 
+    max-width: 800px;
 }
 footer {
     background: #0f2c53;
