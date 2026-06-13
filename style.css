@@ -199,7 +199,6 @@ li {
     box-shadow: 0 10px 20px rgba(37, 99, 235, 0.15);
 }
 .informasi {
-    display: flex;
     justify-content: space-around;
 }
 .informasi a {
