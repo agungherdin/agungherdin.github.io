@@ -207,16 +207,6 @@ footer {
     font-size: 0.9rem;
 }
 
-.comment {
-    font-family: monospace;
-    color: #64748b;
-    font-size: 0.85rem;
-    background: #f8fafc;
-    padding: 10px;
-    border-left: 4px solid #94a3b8;
-    margin: 15px 0;
-}
-
 @media (max-width: 768px) {
     header {
         flex-direction: column;
