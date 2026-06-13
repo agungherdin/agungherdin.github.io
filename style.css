@@ -201,7 +201,12 @@ li {
 .informasi {
     text-align: center;
     margin: 40px 0;
-
+}
+.informasi img {
+    border-radius: 12px;
+    width: 50%
+        max-width: 800px
+}
 footer {
     background: #0f2c53;
     color: white;
