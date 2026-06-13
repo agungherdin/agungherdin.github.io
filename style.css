@@ -198,6 +198,9 @@ li {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(37, 99, 235, 0.15);
 }
+.informasi {
+    text-align: center;
+    margin: 40px 0;
 
 footer {
     background: #0f2c53;
